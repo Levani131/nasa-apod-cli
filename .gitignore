@@ -3,6 +3,7 @@ __pycache__/
 .venv/
 venv/
 .env
+NasaAPI.env
 *.log
 search_history.json
 .DS_Store
